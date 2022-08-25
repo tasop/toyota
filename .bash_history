@@ -31,3 +31,27 @@ git commit -m "my first commit"
 clear
 sudo yum install python
 clear
+git config --global user.email "tasop77@gmail.com"
+git commit -m "my first commit"
+git log
+git status
+git log
+clear
+git log
+vi deploy.sh
+git status
+vi cases
+git status
+clear
+git add cases
+git status
+git commit -m "tools added"
+git status
+git add .
+git status
+clear
+git commit -a -m "deployment updated" 
+git status
+git log
+git show  f6b640
+git show f60d12a
